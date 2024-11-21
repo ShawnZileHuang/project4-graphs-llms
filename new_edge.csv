@@ -1,0 +1,26 @@
+Source,Target,Weight
+Lewis Hamilton,Max Verstappen,1
+Max Verstappen,Lando Norris,2
+Lando Norris,Charles Leclerc,3
+Charles Leclerc,Oscar Piastri,4
+Oscar Piastri,Carlos Sainz,5
+Carlos Sainz,George Russell,6
+George Russell,Lewis Hamilton,7
+Lewis Hamilton,Sergio Perez,8
+Sergio Perez,Fernando Alonso,9
+Fernando Alonso,Nico Hulkenberg,10
+Nico Hulkenberg,Yuki Tsunoda,11
+Yuki Tsunoda,Pierre Gasly,12
+Pierre Gasly,Lance Stroll,13
+Lance Stroll,Esteban Ocon,14
+Esteban Ocon,Kevin Magnussen,15
+Kevin Magnussen,Alexander Albon,16
+Alexander Albon,Daniel Ricciardo,17
+Daniel Ricciardo,Oliver Bearman,18
+Oliver Bearman,Franco Colapinto,19
+Franco Colapinto,Liam Lawson,20
+Liam Lawson,Zhou Guanyu,21
+Zhou Guanyu,Valtteri Bottas,22
+Valtteri Bottas,Logan Sargeant,23
+Logan Sargeant,Carlos Sainz,24
+Carlos Sainz,Max Verstappen,25
